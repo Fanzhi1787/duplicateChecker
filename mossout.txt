@@ -1,0 +1,6 @@
+Uploading .\testdata\python\stu1_demo.py...done
+Uploading .\testdata\python\stu1_lprcmd.py...done
+Uploading .\testdata\python\stu2_demo.py...done
+Uploading .\testdata\python\stu2_lprcmd.py...done
+Query submitted.  Waiting for the server's response.
+http://moss.stanford.edu/results/874773796
